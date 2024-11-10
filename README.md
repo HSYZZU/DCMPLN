@@ -1,7 +1,7 @@
 # DCMPL-AGIQA: A Deep Cross-Modal Prompt Learning Approach for AI-Generated Image Quality Assessment
 
 <div align="center">
-  <img src="./figures/Model.jpg" style="width:100%;">
+  <img src="./figures/Model.png" style="width:100%;">
 </div>
 
 **Abstract:**
