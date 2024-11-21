@@ -15,4 +15,5 @@ You can download datasets AGIQA-3K, AIGCIQA2023 and AGIQA-1K. Next, updata the d
   - AIGCIQA2023 download [here](https://drive.google.com/file/d/1FgIMvpsCBAVU7_ldMT5kww70RG5pK18D/view?usp=sharing)
   
 # Checkpoint
-You can download the trained model weights [checkpoint](https://drive.google.com/file/d/1WnYMxHxnkMYgYNZiTVl0Xczl5LmehszN/view?usp=sharing) for testing.
+You can download the trained model weights checkpoint for testing.
+  - checkpoint download [here](https://drive.google.com/file/d/1WnYMxHxnkMYgYNZiTVl0Xczl5LmehszN/view?usp=sharing) 
