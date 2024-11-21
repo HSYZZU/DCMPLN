@@ -9,7 +9,7 @@
 **The paper is currently under review. We have made a partial release of the code, including the model's trained weights (in .pth format). The complete code and dataset are ready and will be made available upon acceptance of the paper.**
 
 # Datasets
-You can download datasets AGIQA-3K, AIGCIQA2023 and AGIQA-1k. Next, updata the dataset path accordingly.
+You can download datasets AGIQA-3K, AIGCIQA2023 and AGIQA-1K. Next, updata the dataset path accordingly.
   - AGIQA-3K download [here](https://drive.google.com/file/d/1M27YasIoItRFdRRBrQKwXmNWCSDxa3fF/view?usp=sharing)
   - AGIQA-1K download [here](https://drive.google.com/file/d/1Qdd5lrcD1T8U1mjKJlPk6SmI830-XtaP/view?usp=sharing)
   - AIGCIQA2023 download [here](https://drive.google.com/file/d/1FgIMvpsCBAVU7_ldMT5kww70RG5pK18D/view?usp=sharing)
