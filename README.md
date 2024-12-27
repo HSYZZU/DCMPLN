@@ -1,4 +1,4 @@
-# A Deep Cross-Modal Prompt Learning Network for AI-Generated Image Quality Assessment
+# A Deep Cross-Modal Prompt Learning Network for Artificial Intelligence Generated Image Quality Assessment
 
 <div align="center">
   <img src="./figs/Model.jpg" style="width:95%;">
